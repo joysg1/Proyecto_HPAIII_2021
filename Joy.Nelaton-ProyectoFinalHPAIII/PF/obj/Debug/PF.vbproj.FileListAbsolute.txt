@@ -1,0 +1,12 @@
+d:\documentos\visual studio 2015\Projects\PF\PF\bin\Debug\PF.exe.config
+d:\documentos\visual studio 2015\Projects\PF\PF\bin\Debug\PF.exe
+d:\documentos\visual studio 2015\Projects\PF\PF\bin\Debug\PF.pdb
+d:\documentos\visual studio 2015\Projects\PF\PF\bin\Debug\PF.xml
+d:\documentos\visual studio 2015\Projects\PF\PF\obj\Debug\PF.vbprojResolveAssemblyReference.cache
+d:\documentos\visual studio 2015\Projects\PF\PF\obj\Debug\PF.Form1.resources
+d:\documentos\visual studio 2015\Projects\PF\PF\obj\Debug\PF.Resources.resources
+d:\documentos\visual studio 2015\Projects\PF\PF\obj\Debug\PF.vbproj.GenerateResource.Cache
+d:\documentos\visual studio 2015\Projects\PF\PF\obj\Debug\PF.exe
+d:\documentos\visual studio 2015\Projects\PF\PF\obj\Debug\PF.xml
+d:\documentos\visual studio 2015\Projects\PF\PF\obj\Debug\PF.pdb
+d:\documentos\visual studio 2015\Projects\PF\PF\obj\Debug\PF.Form2.resources
